@@ -1,8 +1,3 @@
-This repository was created to demonstrate
-
-Steps to demonstrate bug
-========================
-
 1. Clear cache and built files
 
 ```bash
